@@ -1,0 +1,48 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              Scanner scanner = new Scanner(System.in);
+              int initialValue = scanner.nextInt();
+              int additionValue = scanner.nextInt();
+              int multiplicationValue = scanner.nextInt();
+      
+              Calculator calculator = new Calculator(initialValue);
+              calculator.add(additionValue);
+              calculator.multiply(multiplicationValue);
+      
+              System.out.println(calculator.getValue());
+              System.out.println(Calculator.showHistory());
+          }
+      }
+      
+      class Calculator {
+          private int value;
+          // TODO: Declare a static variable 'history'
+      
+          public Calculator(int value) {
+              this.value = value;
+              // TODO: Initialize 'history' if it has not been initialized
+          }
+      
+          // TODO: Implement the add() method
+          // TODO: Implement the multiply() method
+          // TODO: Implement the showHistory() static method
+      
+          public int getValue() {
+              return this.value;
+          }
+      }'
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/41178#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 20 Mar 2024 15:59:34 UTC"
+record: -1
+submission_language: java17

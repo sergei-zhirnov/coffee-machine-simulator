@@ -1,0 +1,25 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine Simulator with Java/task/build/
+/Coffee Machine Simulator with Java/task/out/
+/Coffee Machine Simulator with Java/task/out/production/classes/
+/Topics/Combining constants with enum/Days of week/out/
+/Topics/Combining constants with enum/Days of week/out/production/classes/
+/Topics/Combining constants with enum/Hidden enumeration/out/
+/Topics/Combining constants with enum/Hidden enumeration/out/production/classes/
+/Topics/Initializing new instances. Constructor/Account and its owner/out/
+/Topics/Initializing new instances. Constructor/Account and its owner/out/production/classes/
+/Topics/Initializing new instances. Constructor/Creating a class for book with title and author/out/
+/Topics/Initializing new instances. Constructor/Creating a class for book with title and author/out/production/classes/
+/Topics/Initializing new instances. Constructor/Geometric cube/out/
+/Topics/Initializing new instances. Constructor/Geometric cube/out/production/classes/
+/Topics/Instance methods/Building a shopping cart class/out/
+/Topics/Instance methods/Building a shopping cart class/out/production/classes/
+/Topics/Static members/Detail manufacturing/out/
+/Topics/Static members/Detail manufacturing/out/production/classes/
+/Topics/Static members/Implementing a calculator with operation history tracking/out/
+/Topics/Static members/Implementing a calculator with operation history tracking/out/production/classes/
+/Topics/Static members/Project constants and methods/out/
+/Topics/Static members/Project constants and methods/out/production/classes/
+/Topics/Static members/Time constants/out/
+/Topics/Static members/Time constants/out/production/classes/

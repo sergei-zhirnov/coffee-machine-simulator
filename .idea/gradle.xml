@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine Simulator with Java/task" />
+            <option value="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Currencies" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Days of week" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Enum with two constants" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Hidden enumeration" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Iterating over enum values" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Reasons to use enum" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Zodiac signs" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/A class with a single integer field" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Accounts" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Books" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Correct fields" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Implementing class with private member and getter method" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Missing parts" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Points" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/The keyword" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Account and its owner" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Automatically created constructor" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Automatically generated constructor" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Constructor definition" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Creating a class for book with title and author" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Default constructor" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Geometric cube" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/How to write a constructor" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Building a shopping cart class" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Counter" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Declare me" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/In a box" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Invoke instance method" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Simulating a clock" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Accessing fields" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Circles and Objects  A Java Tale" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Completing the Dog class program" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Find reference types" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Immutability" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Null or not" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/What is the value of a field" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Accessing static members" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Creating a static message in a class" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Detail manufacturing" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Implementing a calculator with operation history tracking" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Mystery of the methods" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Project constants and methods" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Searching bugs" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Static and instance members" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Time constants" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
